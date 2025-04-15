@@ -2,7 +2,7 @@
 Hi there! I'm Pei Yan.
 - 🎓 Studying towards a BEng in Software Engineering at McGill University, Montréal.
 - 🔬 Areas of professional interest include remote sensing, geoinformatics & computer vision.
-- 💪 Top skills include but are not limited to Java/Kotlin, Python, REST, GraphQL, MongoDB, PL/SQL, Scikit-learn, Tensorflow
+- 💪 Top skills include but are not limited to Java/Kotlin, Python, REST, GraphQL, MongoDB, PL/SQL, Scikit-learn
 - 💼 Work Experience...
   
   - Software Developer Intern - APIs @ Intact
