@@ -17,7 +17,7 @@
   - Software Developer Intern - Test analysis & synthesis @ CAE
 - 🛠️ Projects
   - [Fred Personal Finance App](https://github.com/fredapphq/fred)
-  - [DNS Client & Image Denoising](https://github.com/Neeshal-Imrit/ECSE316-A1)
+  - [Fourier Transform Image Denoising](https://github.com/peiyan-geng/image-denoising)
   - [Sport Centre Management App](https://github.com/McGill-ECSE321-Winter2024/project-group-2)
   - [MiniCaml Programming Language](https://github.com/peiyan-geng/comp302project)
   - [VGA Game of Life](https://github.com/peiyan-geng/ecse324lab4)
