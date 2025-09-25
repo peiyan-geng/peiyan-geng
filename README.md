@@ -14,7 +14,7 @@
 - 💪 Top skills include but are not limited to Java/Kotlin, Python, REST, GraphQL, MongoDB, PL/SQL, Scikit-learn
 - 💼 Work Experience
   - Software Developer Intern - APIs @ Intact
-  - Software Developer Intern - Test analysis & synthesis @ CAE
+  - Software Developer Intern - Testing @ CAE
 - 🛠️ Projects
   - [Fred Personal Finance App](https://github.com/fredapphq/fred)
   - [Fourier Transform Image Denoising](https://github.com/peiyan-geng/image-denoising)
