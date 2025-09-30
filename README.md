@@ -11,7 +11,7 @@
 ## 👋 About Me
 - 🎓 Studying towards a BEng in Software Engineering at McGill University, Montréal.
 - 🔬 Areas of professional interest include remote sensing, geoinformatics & computer vision.
-- 💪 Top skills include but are not limited to Java/Kotlin, Python, REST, GraphQL, MongoDB, PL/SQL, Scikit-learn
+- 💪 Top skills include but are not limited to Java/Kotlin, Python, REST, GraphQL, MongoDB, SQL, Scikit-learn
 - 💼 Work Experience
   - Software Developer Intern - APIs @ Intact
   - Software Developer Intern - Testing @ CAE
