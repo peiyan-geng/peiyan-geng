@@ -16,6 +16,7 @@
   - Software Developer Intern - APIs @ Intact
   - Software Developer Intern - Test Analytics @ CAE
 - 🛠️ Projects
+  - [CSA On-Orbit Collision Avoidance Assistant]([https://github.com/fredapphq/fred](https://github.com/ECSE-458-DP-29/On-Orbit-Collision-Avoidance-Assistant))
   - [Fred Personal Finance App](https://github.com/fredapphq/fred)
   - [Fourier Transform Image Denoising](https://github.com/peiyan-geng/image-denoising)
   - [Sport Centre Management App](https://github.com/McGill-ECSE321-Winter2024/project-group-2)
